@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Ten Years Ago, Spirit Rover Lands on Mars</title>
+ <link>http://www.nasa.gov/content/ten-years-ago-spirit-rover-lands-on-mars</link>
+ <description>This mosaic image taken on Jan. 4, 2004, by the navigation camera on the Mars Exploration Rover Spirit, shows a 360 degree panoramic view of the rover on the surface of Mars. Spirit operated for more than six years after landing in January 2004 for what was planned as a three-month mission.
+Spirit drove 4.8 miles (7.73 kilometers), more than 12 times the goal set for the mission. The drives crossed a plain to reach a distant range of hills that appeared as mere bumps on the horizon from the landing site; climbed slopes up to 30 degrees as Spirit became the first robot to summit a hill on another planet; and covered more than half a mile (nearly a kilometer) after Spirit&#039;s right-front wheel became immobile in 2006. The rover returned more than 124,000 images. It ground the surfaces off 15 rock targets and scoured 92 targets with a brush to prepare the targets for inspection with spectrometers and a microscopic imager.
+Image Credit: NASA/JPL</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/pia04980.jpg" length="120612" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/ten-years-ago-spirit-rover-lands-on-mars</guid>
+ <pubDate>Fri, 03 Jan 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The World&#039;s Tallest Mountain</title>
+ <link>http://www.nasa.gov/content/the-worlds-tallest-mountain</link>
+ <description>Fourteen mountain peaks on Earth stand taller than 8,000 meters (26,247 feet). The tallest of these “eight-thousanders” is Mount Everest, the standard to which all other mountains are compared. The Nepalese name for the mountain is Sagarmatha: “mother of the universe.”
+Everest’s geological story began 40 million years ago when the Indian subcontinent began a slow-motion collision with Asia. The edges of two continents jammed together and pushed up the massive ridges that make up the Himalayas today. Pulitzer-winning journalist John McPhee summed up the wonder of the mountain’s history when he wrote Annals of the Former World: “The summit of Mount Everest is marine limestone. This one fact is a treatise in itself on the movements of the surface of the Earth. If by some fiat, I had to restrict all this writing to one sentence; this is the one I would choose.”
+In other words, when climbers reach the top of Mount Everest, they are not standing on hard igneous rock produced by volcanoes. Rather, they are perched on softer sedimentary rock formed by the skeletons of creatures that lived in a warm ocean off the northern coast of India tens of millions of years ago.
+Meanwhile, glaciers have chiseled Mount Everest’s summit into a huge, triangular pyramid, defined by three faces and three ridges that extend to the northeast, southeast, and northwest. The southeastern ridge is the most widely used climbing route. It is the one that Edmund Hillary and Tenzing Norgay followed in May 1953 when they became the first climbers to reach the summit and return safely.
+Climbers who follow this route begin by trekking past Khumbu glacier and through the Khumbu ice fall, an extremely dangerous area where ice tumbles off the mountain into a chaotic waterfall of ice towers and crevasses. Next, climbers reach a bowl-shaped valley—a cirque—called the Western Cwm (pronounced coom) and then the foot of the Lhotse Face, a 1,125-meter (3,691-foot) wall of ice. Climbing up the Lhotse face leads to the South Col, the low point in the ridge that connects Everest to Lhotse. It is from the South Col that most expeditions launch their final assault on the summit, following a route up the southeastern ridge.
+Some climbers opt for the northern ridge, which is known for having harsher winds and colder temperatures. That is the path that British climbers George Mallory and Andrew Irvine used in 1924 during what may, in fact, have been the first ascent. Whether the pair made it to the summit remains a topic of controversy, but what is known for certain is that the men were spotted pushing toward the peak just before the arrival of a storm. Mallory’s corpse was discovered near the northeast ridge at 8,160 meters (26,772 feet) by an American climber in 1999, but it still isn’t clear whether he reached the summit.
+Despite its reputation as an extremely dangerous mountain, commercial guiding has done much to tame Everest in the last few decades. As of March 2012, there had been 5,656 successful ascents of Everest, while 223 people had died—a fatality rate of 4 percent.
+&gt; Read More
+Image Credit: NASA Earth Observatory image by Jesse Allen and Robert Simmon, using EO-1 ALI data from the NASA EO-1 team, archived on the USGS Earth Explorer.
+	Caption: Adam Voiland</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/everest_ali_2012290_lrg.jpg" length="2805037" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/the-worlds-tallest-mountain</guid>
+ <pubDate>Thu, 02 Jan 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Quiet Corona and Upper Transition Region of the Sun</title>
+ <link>http://www.nasa.gov/content/quiet-corona-and-upper-transition-region-of-the-sun</link>
+ <description>This image, taken on Dec. 31, 2013 by the AIA instrument on NASA&#039;s Solar Dynamics Observatory at 171 Angstrom, shows the current conditions of the quiet corona and upper transition region of the Sun.
+Image Credit: NASA/SDO</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/latest_4096_0171.jpg" length="2483134" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/quiet-corona-and-upper-transition-region-of-the-sun</guid>
+ <pubDate>Tue, 31 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Eyes Galaxy as Flat as a Pancake</title>
+ <link>http://www.nasa.gov/content/hubble-eyes-galaxy-as-flat-as-a-pancake</link>
+ <description>Located some 25 million light-years away, this new Hubble image shows spiral galaxy ESO 373-8. Together with at least seven of its galactic neighbors, this galaxy is a member of the NGC 2997 group. We see it side-on as a thin, glittering streak across the sky, with all its contents neatly aligned in the same plane.
+					We see so many galaxies like this — flat, stretched-out pancakes — that our brains barely process their shape. But let us stop and ask: Why are galaxies stretched out and aligned like this?
+					Try spinning around in your chair with your legs and arms out. Slowly pull your legs and arms inwards, and tuck them in against your body. Notice anything? You should have started spinning faster. This effect is due to conservation of angular momentum, and it’s true for galaxies, too.
+					This galaxy began life as a humungous ball of slowly rotating gas. Collapsing in upon itself, it spun faster and faster until, like pizza dough spinning and stretching in the air, a disc started to form. Anything that bobbed up and down through this disk was pulled back in line with this motion, creating a streamlined shape.
+					Angular momentum is always conserved — from a spinning galactic disk 25 million light-years away from us, to any astronomer, or astronomer-wannabe, spinning in an office chair.
+					Image Credit: NASA/Hubble</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/potw1351a_0.jpg" length="301942" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/hubble-eyes-galaxy-as-flat-as-a-pancake</guid>
+ <pubDate>Mon, 30 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronaut Mike Hopkins on Dec. 24 Spacewalk</title>
+ <link>http://www.nasa.gov/content/astronaut-mike-hopkins-on-dec-24-spacewalk</link>
+ <description>On Dec. 24, 2013, NASA astronaut Mike Hopkins, Expedition 38 Flight Engineer, participates in the second of two spacewalks, spread over a four-day period, which were designed to allow the crew to change out a degraded pump module on the exterior of the Earth-orbiting International Space Station. He was joined on both spacewalks by NASA astronaut Rick Mastracchio, whose image shows up in Hopkins&#039; helmet visor.
+The pump module controls the flow of ammonia through cooling loops and radiators outside the space station, and, combined with water-based cooling loops inside the station, removes excess heat into the vacuum of space.
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/11572307115_1194957269_o.jpg" length="1382299" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/astronaut-mike-hopkins-on-dec-24-spacewalk</guid>
+ <pubDate>Fri, 27 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>OCO-2 Observatory Conducts Environmental Tests</title>
+ <link>http://www.nasa.gov/jpl/earth/oco-2/observatory-conducts-tests</link>
+ <description>NASA&#039;s Orbiting Carbon Observatory (OCO)-2 spacecraft is moved into a thermal vacuum chamber at Orbital Sciences Corporation&#039;s Satellite Manufacturing Facility in Gilbert, Ariz., for a series of environmental tests. The tests confirmed the integrity of the observatory&#039;s electrical connections and subjected the OCO-2 instrument and spacecraft to the extreme hot, cold and airless environment they will encounter once in orbit. The observatory&#039;s solar array panels were removed prior to the test.
+OCO-2 is NASA&#039;s first mission dedicated to studying atmospheric carbon dioxide and is the latest mission in NASA&#039;s study of the global carbon cycle. Carbon dioxide is the most significant human-produced greenhouse gas and the principal human-produced driver of climate change. The mission will uniformly sample the atmosphere above Earth&#039;s land and ocean, collecting between 100,000 and 200,000 measurements of carbon dioxide concentration over Earth&#039;s sunlit hemisphere every day for at least two years. It will do so with the accuracy, resolution and coverage needed to provide the first complete picture of the regional-scale geographic distribution and seasonal variations of both human and natural sources of carbon dioxide emissions as well as the places where carbon dioxide is removed from the atmosphere and stored.
+Image Credit: Orbital Sciences Corporation/NASA/JPL-Caltech</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/main20131223-full_1.jpg" length="4892312" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/earth/oco-2/observatory-conducts-tests</guid>
+ <pubDate>Thu, 26 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Forty-Fifth Anniversary of &#039;Earthrise&#039; Image</title>
+ <link>http://www.nasa.gov/content/forty-fifth-anniversary-of-earthrise-image</link>
+ <description>Forty-five years ago, in December of 1968, the Apollo 8 crew flew from the Earth to the Moon and back again. Frank Borman, James Lovell, and William Anders were launched atop a Saturn V rocket on Dec. 21, circled the Moon ten times in their command module, and returned to Earth on Dec. 27. The Apollo 8 mission&#039;s impressive list of firsts includes: the first humans to journey to the Earth&#039;s Moon, the first to fly using the Saturn V rocket, and the first to photograph the Earth from deep space. As the Apollo 8 command module rounded the far side of the Moon on Dec. 24, the crew could look toward the lunar horizon and see the Earth appear to rise, due to their spacecraft&#039;s orbital motion. Their famous picture of a distant blue Earth above the Moon&#039;s limb was a marvelous gift to the world.
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/as8-14-2383hr.jpg" length="311261" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/forty-fifth-anniversary-of-earthrise-image</guid>
+ <pubDate>Tue, 24 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronauts Complete First in Series of Spacewalks</title>
+ <link>http://www.nasa.gov/content/astronauts-complete-first-in-series-of-spacewalks</link>
+ <description>On Sunday, Dec. 22, NASA astronaut Mike Hopkins tweeted this photo of Saturday&#039;s spacewalk, saying, &quot;Wow... can&#039;t believe that is me yesterday. Wish I could find the words to describe the experience, truly amazing.&quot;
+Expedition 38 Flight Engineers Rick Mastracchio and Mike Hopkins wrapped up a 5-hour, 28-minute spacewalk outside the International Space Station at 12:29 p.m. EST Saturday, completing the first in a series of excursions aimed at replacing a degraded ammonia pump module associated with one of the station&#039;s two external cooling loops that keeps both internal and external equipment cool. A second spacewalk to install a replacement pump module is scheduled for Tuesday, Dec. 24 at 7:10 a.m. EST, with NASA TV coverage beginning at 6:15 a.m. EST.
+&gt; Read More
+	&gt; @AstroIllini (Mike Hopkins) on Twitter
+	&gt; @AstroRM (Rick Mastracchio) on Twitter
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/11519231145_893a0b7817_o.jpg" length="1243288" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/astronauts-complete-first-in-series-of-spacewalks</guid>
+ <pubDate>Mon, 23 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronauts Prepare for Spacewalks</title>
+ <link>http://www.nasa.gov/content/astronauts-prepare-for-spacewalks</link>
+ <description>Expedition 38 crew member Mike Hopkins checks out the spacesuit he will wear outside the International Space Station on Saturday, Dec. 21, 2013. He and fellow astronaut Rick Mastracchio will conduct a series of spacewalks to replace an ammonia pump that is part of the station&#039;s coolant system. This will be Hopkins&#039; first spacewalk, while Mastracchio has had six previous ones on STS-118 and STS-131.
+&gt; More Information on Planned Spacewalks</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/iss038e017486.jpg" length="1552266" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/astronauts-prepare-for-spacewalks</guid>
+ <pubDate>Fri, 20 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Goldstone&#039;s Antenna Tracks Spacecraft</title>
+ <link>http://www.nasa.gov/content/goldstones-antenna-tracks-spacecraft</link>
+ <description>Late night in the desert: Goldstone&#039;s 230-foot (70-meter) antenna tracks spacecraft day and night. This photograph was taken on Jan. 11, 2012.
+					The Goldstone Deep Space Communications Complex, located in the Mojave Desert in California, is one of three complexes that comprise NASA&#039;s Deep Space Network (DSN). The DSN provides radio communications for all of NASA&#039;s interplanetary spacecraft and is also utilized for radio astronomy and radar observations of the solar system and the universe. DSN, the world&#039;s largest and most powerful communications system for &quot;talking to&quot; spacecraft, will reach a milestone on Dec. 24: the 50th anniversary of its official creation.
+					JPL, a division of the California Institute of Technology in Pasadena, manages the Deep Space Network for NASA. More information about the Deep Space Network is online at: http://www.jpl.nasa.gov/dsn50.
+					More information about NASA&#039;s Space Communications and Navigation program is at: www.spacecomm.nasa.gov.
+					Image Credit: NASA/JPL-Caltech</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/goldstone_50.jpeg" length="7384876" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/goldstones-antenna-tracks-spacecraft</guid>
+ <pubDate>Thu, 19 Dec 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>
